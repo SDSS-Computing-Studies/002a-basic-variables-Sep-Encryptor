@@ -1,6 +1,5 @@
 #!python3
 
-#SD computer studies assignment
-
+# SD Computing Studies Assgnment
 fname = "Mr"
 lname = "Yang"
