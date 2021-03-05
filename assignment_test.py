@@ -16,5 +16,7 @@ def test2():
 
 def test3():
   #assertions for assignment3
-  assert assignment3.value1 ==10
-  assert assignment3.value2 == 10
+  assert assignment3.value1 == 10
+  assert assignment3.value2 == "10"
+  
+
