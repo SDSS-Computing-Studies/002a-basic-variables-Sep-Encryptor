@@ -2,5 +2,6 @@
 
 # SD Computing Studies Assignment
 
-x = 5+5
+x = 10
 y = 2.4
+
